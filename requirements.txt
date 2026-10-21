@@ -3,5 +3,5 @@ numpy==1.26.4
 requests==2.32.3
 pandas-ta-classic
 pyvsmc==0.3.7
-forexfactory
+ecocal
 pytz==2024.1
