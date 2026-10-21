@@ -1,7 +1,7 @@
-pandas==2.2.2
-numpy==1.26.4
-requests==2.32.3
+pandas>=2.2.3
+numpy>=2.0.0
+requests
 pandas-ta-classic
 pyvsmc==0.3.7
 ecocal
-pytz==2024.1
+pytz
