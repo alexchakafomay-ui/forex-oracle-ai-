@@ -1,7 +1,7 @@
 pandas==2.2.2
 numpy==1.26.4
 requests==2.32.3
-pandas_ta==0.3.14b0
+pandas-ta-classic==0.3.14b1
 pyvsmc==1.1.0
 forexfactory==0.1.4
 pytz==2024.1
